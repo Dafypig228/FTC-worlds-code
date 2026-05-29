@@ -1,7 +1,5 @@
 # FTC Team 24804 — DECODE
 
-> Inspire here we come 😈
-
 Robot code for FIRST Tech Challenge team **24804**, **DECODE** season (2025–2026).
 The robot shoots artifacts at an elevated goal using predictive ballistic aiming,
 a mecanum drivetrain, and GoBilda Pinpoint odometry.
@@ -261,5 +259,3 @@ Minimum requirements:
 ## Team
 
 **24804** — FIRST Tech Challenge. **DECODE** season, 2025–2026.
-
-> Inspire here we come 😈
